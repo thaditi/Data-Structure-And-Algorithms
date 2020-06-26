@@ -11,8 +11,8 @@ implement a phone book on your phone or to store the password table of your comp
 In this task your goal is to implement a hash table with lists chaining. You are already given the
 number of buckets 𝑚 and the hash function. It is a polynomial hash function
 ℎ(𝑆) =
-       ⎛<sup>|𝑆|−1</sup>Σ︁<sub>𝑖=0</sub> 𝑆[𝑖]𝑥<sub>𝑖</sub> mod 𝑝 ⎞ mod 𝑚 ,
-       ⎝                                                       ⎠
+      ( <sup>|𝑆|−1</sup>Σ︁<sub>𝑖=0</sub> 𝑆[𝑖]𝑥<sub>𝑖</sub> mod 𝑝 )mod 𝑚 ,
+                                                             
 
 where 𝑆[𝑖] is the ASCII code of the 𝑖-th symbol of 𝑆, 𝑝 = 1 000 000 007 and 𝑥 = 263. Your program should support the following kinds of queries:
 
