@@ -15,7 +15,7 @@ The first line of the input contains an integer 𝑛 and a sequence 𝑎<sub>0</
 
 ## Constraints:
 
-1 ≤ 𝑘 ≤ 105; 1 ≤ 𝑛 ≤ 3 · 104; 1 ≤ 𝑎𝑖 ≤ 109 for all 0 ≤ 𝑖 < 𝑛; 1 ≤ 𝑏𝑗 ≤ 109 for all 0 ≤ 𝑗 < 𝑘
+1 ≤ 𝑘 ≤ 10<sub>5</sub>; 1 ≤ 𝑛 ≤ 3 · 10<sub>4</sub>; 1 ≤ 𝑎𝑖 ≤ 10<sub>9</sub> for all 0 ≤ 𝑖 < 𝑛; 1 ≤ 𝑏𝑗 ≤ 10<sub>9</sub> for all 0 ≤ 𝑗 < 𝑘
 
 ## Output Format:
 
