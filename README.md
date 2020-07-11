@@ -1,2 +1,2 @@
 # Data-Structure-And-Algorithms
-DSA Specialization (Cousera)
+DSA Specialization
